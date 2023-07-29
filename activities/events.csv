@@ -1,0 +1,12 @@
+title,description,date,location,start_time,end_time,completion
+Charity Gala,Fundraising gala for a local charity,2023-07-25,City Banquet Hall,19:30,23:00,False
+Conference,Annual industry conference,2023-07-05,Convention Center,09:00,17:00,False
+Exhibition,Art exhibition showcasing local artists,2023-08-10,Art Gallery,11:00,18:00,False
+Graduation,University graduation ceremony,2023-06-28,Old town,11:00,15:00,False
+Music Concert,Live music concert by popular band,2023-08-20,Outdoor Stadium,19:00,22:00,False
+Networking Event,Professional networking event,2023-07-30,Rooftop Lounge,17:30,19:30,False
+Product Launch,Launch event for new product,2023-07-15,Grand Ballroom,18:00,20:00,False
+Seminar,Industry seminar on emerging trends,2023-08-05,Conference Hall A,13:00,17:00,False
+Team Meeting,Weekly team meeting,2023-07-10,Office Meeting Room,14:00,15:00,False
+Training Workshop,Technical training workshop,2023-07-20,Training Center,10:00,16:00,False
+Workshop,Creativity and innovation workshop,2023-08-15,Innovation Lab,09:30,12:30,False

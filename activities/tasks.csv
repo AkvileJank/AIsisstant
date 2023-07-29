@@ -1,0 +1,11 @@
+title,description,date,difficulty,urgency,completion
+Create user interface design,Design the user interface for the application,2023-06-21,3,4,False
+Deploy application,Deploy the application to production environment,2023-06-28,3,4,False
+Fix bugs,Debug and fix reported bugs,2023-06-16,5,4,False
+Implement new feature,Implement a new feature requested by the client,2023-06-12,3,5,False
+Optimize performance,Optimize code for better performance,2023-06-18,4,3,False
+Prepare presentation,Prepare a presentation for the project review,2023-06-26,2,3,False
+Review code,Review and provide feedback on the code,2023-06-14,3,2,False
+Test application,Perform comprehensive testing of the application,2023-06-23,4,2,False
+Update documentation,Update the project documentation,2023-06-09,2,3,False
+Write tests,Write unit tests for this program,2023-06-17,4,4,False
