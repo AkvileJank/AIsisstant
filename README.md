@@ -1,4 +1,4 @@
-# Capstone project - AIssistant
+# AIssistant - AI-Enhanced Planner App
 
 ## Description
 
